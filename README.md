@@ -4,7 +4,7 @@ Projeto desenvolvido na disciplina **Desenvolvimento para Dispositivos Móveis 2
 com o professor **Tiago Silva**.  
 
 
-## 🎮 **Sobre o projeto**
+## 📱 **Sobre o projeto**
 
 - Desenvolvido para verificar preços de diárias no hotel.  
 - É possível alternar entre suítes e datas.  
